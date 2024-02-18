@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.room:hover {
+  background-color: blue !important;
+}
+
+.active-roon {
+  background-color: blueviolet !important;
+}
